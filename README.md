@@ -197,7 +197,7 @@ Handle missing values and replace NULL values with zero.
 - 🛒 Number of Purchases
 - 📈 Average Revenue Per Purchase
 
-<img width="2828" height="1442" alt="image" src="https://github.com/user-attachments/assets/991b5742-4cb7-4ac2-8192-51920d6c46f0" />
+<img width="2812" height="1450" alt="image" src="https://github.com/user-attachments/assets/bb4ee694-83ba-415c-a21e-c719ccc6b8b6" />
 
 ---
 
