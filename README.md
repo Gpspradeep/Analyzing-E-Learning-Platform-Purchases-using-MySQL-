@@ -29,7 +29,7 @@ This project analyzes **E-Learning Platform Purchase Data** using **MySQL** to u
 - Create the `Elearning_Platform` database.
 - Set up the environment for SQL analysis.
 
-  <img width="730" height="362" alt="image" src="https://github.com/user-attachments/assets/d5b64707-3d8a-4bfd-8edc-e435dcb5b3c0" />
+  <img width="2819" height="1438" alt="image" src="https://github.com/user-attachments/assets/4228f9a3-4b13-4e56-8f05-5fa2bf5de807" />
 
 
 ---
