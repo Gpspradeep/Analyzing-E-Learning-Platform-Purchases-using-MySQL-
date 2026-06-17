@@ -29,8 +29,7 @@ This project analyzes **E-Learning Platform Purchase Data** using **MySQL** to u
 - Create the `Elearning_Platform` database.
 - Set up the environment for SQL analysis.
 
-  <img width="2819" height="1438" alt="image" src="https://github.com/user-attachments/assets/4228f9a3-4b13-4e56-8f05-5fa2bf5de807" />
-
+<img width="2819" height="1438" alt="image" src="https://github.com/user-attachments/assets/4228f9a3-4b13-4e56-8f05-5fa2bf5de807" />
 
 ---
 
@@ -60,8 +59,7 @@ This project analyzes **E-Learning Platform Purchase Data** using **MySQL** to u
 | quantity | Number of Courses Purchased |
 | purchase_date | Purchase Date |
 
-<img width="733" height="380" alt="image" src="https://github.com/user-attachments/assets/57eac025-8f2a-46a5-a033-1518b8047cdb" />
-
+<img width="2823" height="1444" alt="image" src="https://github.com/user-attachments/assets/1bd91ad3-cef1-4e95-8223-5a2ad92a28bb" />
 
 ---
 
@@ -100,7 +98,7 @@ This project analyzes **E-Learning Platform Purchase Data** using **MySQL** to u
 🎯 Objective:
 Calculate the total amount spent by each learner and display their country.
 
-<img width="766" height="398" alt="image" src="https://github.com/user-attachments/assets/3974bab5-e6fa-438f-8b89-8d035dca1b7b" />
+<img width="2821" height="1444" alt="image" src="https://github.com/user-attachments/assets/b85be975-b80d-454a-8178-80824cee91e4" />
 
 ---
 
@@ -109,7 +107,7 @@ Calculate the total amount spent by each learner and display their country.
 🎯 Objective:
 Identify the most popular courses based on purchase quantity.
 
-<img width="768" height="394" alt="image" src="https://github.com/user-attachments/assets/67e742a7-8179-425d-8812-ed1e76713272" />
+<img width="2828" height="1445" alt="image" src="https://github.com/user-attachments/assets/810e77b2-1105-4b43-a69d-2230a865a8fc" />
 
 ---
 
@@ -121,7 +119,7 @@ Analyze category performance using:
 - 💰 Total Revenue
 - 👥 Unique Learners
 
-<img width="766" height="395" alt="image" src="https://github.com/user-attachments/assets/39852eb8-597b-4873-a3c8-1cd6deeacf55" />
+<img width="2835" height="1456" alt="image" src="https://github.com/user-attachments/assets/bcf5b77e-f0a6-4535-8b5a-e9b5f6709b8c" />
 
 ---
 
@@ -179,7 +177,7 @@ Identify high-value learners using Common Table Expressions (CTE).
 | 💵 8,000–15,000 | 🥈 Medium Value |
 | 💸 Below 8,000 | 🥉 Low Value |
 
-<img width="848" height="442" alt="image" src="https://github.com/user-attachments/assets/860ebad8-e419-4d54-a23c-41d3753f9020" />
+<img width="2827" height="1450" alt="image" src="https://github.com/user-attachments/assets/7ee188f1-d7d6-46db-8293-a5ab80a2a9df" />
 
 ---
 
@@ -199,7 +197,7 @@ Handle missing values and replace NULL values with zero.
 - 🛒 Number of Purchases
 - 📈 Average Revenue Per Purchase
 
-<img width="906" height="464" alt="image" src="https://github.com/user-attachments/assets/4a5f12ae-a204-4b0a-b877-0669355c1a4a" />
+<img width="2828" height="1442" alt="image" src="https://github.com/user-attachments/assets/991b5742-4cb7-4ac2-8192-51920d6c46f0" />
 
 ---
 
